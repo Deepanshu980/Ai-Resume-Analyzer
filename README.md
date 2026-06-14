@@ -262,9 +262,3 @@ python -m spacy download en_core_web_sm
 ## 📄 License
  
 This project is open-source and available under the [MIT License](LICENSE).
- 
----
- 
-## 🙏 Credits
- 
-Built with 🤍 by [Deepak Padhi](https://dnoobnerd.netlify.app/) through guidance from [Dr Bright](https://www.linkedin.com/in/mrbriit/) (Data Scientist).
